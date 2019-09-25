@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marlen Oehler | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/marlen-oehler/</link>
+      <atom:link href="https://michagermann.github.io/authors/marlen-oehler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marlen Oehler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Marlen Oehler</title>
+      <link>https://michagermann.github.io/authors/marlen-oehler/</link>
+    </image>
+    
+    <item>
+      <title>Autonomiebewegungen in Europa</title>
+      <link>https://michagermann.github.io/outreach/srf4newsaktuell2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/srf4newsaktuell2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

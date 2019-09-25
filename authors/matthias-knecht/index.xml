@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Knecht | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/matthias-knecht/</link>
+      <atom:link href="https://michagermann.github.io/authors/matthias-knecht/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthias Knecht</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Matthias Knecht</title>
+      <link>https://michagermann.github.io/authors/matthias-knecht/</link>
+    </image>
+    
+    <item>
+      <title>Was den Separatismus befeuert und was ihn schwächt</title>
+      <link>https://michagermann.github.io/outreach/nzzas2017/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/nzzas2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

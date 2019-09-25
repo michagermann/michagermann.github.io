@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datasets | Micha Germann</title>
+    <link>https://michagermann.github.io/datasets/</link>
+      <atom:link href="https://michagermann.github.io/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <description>Datasets</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Datasets</title>
+      <link>https://michagermann.github.io/datasets/</link>
+    </image>
+    
+    <item>
+      <title>SDM</title>
+      <link>https://michagermann.github.io/datasets/sdm/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/datasets/sdm/</guid>
+      <description>
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;Much of world history has been the history of separatism. Much of that history has been violent. New nation-states often come from the violent dissolution of larger states or empires and violence has earned many nations the right to exist as sovereign entities. Indeed, most armed conflicts since the end of the Cold War have been about self-determination. A large literature in political science and economics has tried to identify the causes of secessionist war and explain the genesis of self-determination movements. However, a core limitation has been that extant sources of data on self-determination movements are heavily incomplete and overrepresent highly mobilized, violent movements.&lt;/p&gt;
+
+&lt;p&gt;The SDM dataset provides new and improved data on self-determination movements (SDMs) around the world that corrects the selection bias that characterizes previous efforts to code SDMs. The SDM data identifies more than 450 ethnic groups that have made claims for increased territorial self-determination from 1945-2012. This is more than double the number covered in existing datasets; and whereas up to 60% of the cases included in existing datasets are violent, more than two thirds of the cases we code never escalated to violence. For a random sample of cases, SDM in addition provides detailed information on government policy responses to SDMs as well as on several attributes of SDM groups including group sizes, regional concentration, and overlap of the claimed territory with hydrocarbon reserves. The data is supported by extensive documentation and can be used to study the causes of self-determination claims, the escalation of nonviolent self-determination claims to violence, how governments respond to ethnic claims for self-determination, and other theoretical arguments concerning separatist conflict that have previously been tested with incomplete or inferior data.&lt;/p&gt;
+
+&lt;p&gt;The data and documentation can be downloaded &lt;a href=&#34;https://michagermann.github.io/files/SDM.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When referring to this data set, please always cite:&lt;/p&gt;
+
+&lt;p&gt;Sambanis, Nicholas, Micha Germann, and Andreas Schädel (2018). ``SDM: A New Dataset on Self-Determination Movements with an Application to the Reputational Theory of Conflict.&amp;rdquo; &lt;em&gt;Journal of Conflict Resolution&lt;/em&gt; 62(3):656&amp;ndash;686. &lt;a href=&#34;https://michagermann.github.io/publication/sambanisgermannschaedel2018/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.1177/0022002717735364&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Work on this dataset was partly funded by the Swiss National Science Foundation (grants no. &lt;a href=&#34;http://p3.snf.ch/project-135127&#34; target=&#34;_blank&#34;&gt;135127&lt;/a&gt;, &lt;a href=&#34;http://p3.snf.ch/project-143213&#34; target=&#34;_blank&#34;&gt;143213&lt;/a&gt;, and &lt;a href=&#34;http://p3.snf.ch/project-162220&#34; target=&#34;_blank&#34;&gt;162220&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contested Sovereignty</title>
+      <link>https://michagermann.github.io/datasets/contested-sovereignty/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/datasets/contested-sovereignty/</guid>
+      <description>
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;Referendums on sovereignty have proliferated in recent years and are increasingly catching the interest of political scientists. A growing literature examines the conditions leading to referendums on sovereignty matters, whether sovereignty referendums help to resolve conflicts peacefully, and various other outcomes of sovereignty referendums. An indispensable prerequisite for many of these research questions is a well-researched, complete compilation of the worldwide experience with sovereignty referendums. This is where the Contested Sovereignty dataset steps in.&lt;/p&gt;
+
+&lt;p&gt;Departing from an improved conceptualization of what does and does not constitute a `sovereignty referendum’, the Contested Sovereignty dataset records the worldwide incidence of sovereignty referendums from 1776-2012. Drawing on a rich set of sources, the dataset identifies a total of 602 sovereignty referendums, more than double the number in existing lists. Further, the dataset categorizes sovereignty referendums into several different types (e.g., unification, autonomy, and independence referendums).&lt;/p&gt;
+
+&lt;p&gt;The data and documentation can be downloaded &lt;a href=&#34;https://michagermann.github.io/files/Contested Sovereignty.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When referring to this data set, please always cite:&lt;/p&gt;
+
+&lt;p&gt;Mendez, Fernando, and Micha Germann (2018). ``Contested Sovereignty: Mapping Referendums on Sovereignty over Time and Space.’’ &lt;em&gt;British Journal of Political Science&lt;/em&gt; 48(1):141-165. &lt;a href=&#34;https://michagermann.github.io/publication/mendezgermann2018/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt; &lt;a href=&#34;https://doi.org/10.1017/S0007123415000563&#34; target=&#34;_blank&#34;&gt;[2]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Aubert, Nicolas, Micha Germann, and Fernando Mendez (2015). ``Contested Sovereignty:
+A Global Compilation of Sovereignty Referendums (1776_2012). Codebook v.1.0.’’ University of Zurich, unpublished manuscript. &lt;a href=&#34;https://michagermann.github.io/files/Contested_Sovereignty_Codebook_v1.0.pdf&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Work on this dataset was funded by the Swiss National Science Foundation (grant no. &lt;a href=&#34;http://p3.snf.ch/project-135127&#34; target=&#34;_blank&#34;&gt;135127&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;An update of this dataset is currently in progress. Provisional data extending coverage to 2017 can be obtained upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

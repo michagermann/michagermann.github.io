@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OECD | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/oecd/</link>
+      <atom:link href="https://michagermann.github.io/authors/oecd/index.xml" rel="self" type="application/rss+xml" />
+    <description>OECD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>OECD</title>
+      <link>https://michagermann.github.io/authors/oecd/</link>
+    </image>
+    
+    <item>
+      <title>Trends Shaping Education 2019</title>
+      <link>https://michagermann.github.io/outreach/oecd2019/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/oecd2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

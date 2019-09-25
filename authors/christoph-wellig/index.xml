@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Wellig | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/christoph-wellig/</link>
+      <atom:link href="https://michagermann.github.io/authors/christoph-wellig/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Wellig</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Christoph Wellig</title>
+      <link>https://michagermann.github.io/authors/christoph-wellig/</link>
+    </image>
+    
+    <item>
+      <title>Fifteen Years of Internet Voting in Switzerland: History, Governance and Use</title>
+      <link>https://michagermann.github.io/publication/serdueltgermannmendezportenierwellig2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/serdueltgermannmendezportenierwellig2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five Years of Internet Voting for Swiss Expatriates</title>
+      <link>https://michagermann.github.io/publication/germannconradinwelligserduelt2014/</link>
+      <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannconradinwelligserduelt2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

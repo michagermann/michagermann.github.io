@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micha Germann</title>
+    <link>https://michagermann.github.io/</link>
+      <atom:link href="https://michagermann.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Micha Germann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Micha Germann</title>
+      <link>https://michagermann.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://michagermann.github.io/publication/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outreaches</title>
+      <link>https://michagermann.github.io/outreach/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>https://michagermann.github.io/datasets/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/datasets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://michagermann.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://michagermann.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

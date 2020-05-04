@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/authors/</link>
       <atom:link href="https://michagermann.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 00:00:20 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,21 +15,69 @@
     <item>
       <title></title>
       <link>https://michagermann.github.io/authors/admin/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Prize Fellow in Political Science at the University of Bath.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Prize Fellow in the Department of Politics, Languages &amp;amp; International Studies at the University of Bath. I previously held postdoctoral fellowships at the University of Leuven and the University of Pennsylvania, as well as visiting positions at the European University Institute, the Leibniz-Institute for the Social Sciences, and Yale University. My PhD was awarded by ETH Zurich in 2017.&lt;/p&gt;
 
-&lt;p&gt;Much of my research focuses on ethnic conflict and political behavior. In recent work I have I explored the causes of conflicts over territorial self-determination and when and why such conflicts escalate from nonviolence to violence and civil war. Moreover, I have a strong interest in digital democratic innovations, such as Internet voting or Voting Advice Applications, and how they affect political behavior including electoral turnout.&lt;/p&gt;
+&lt;p&gt;My research focuses on ethno-nationalist conflict, digital democracy, and political behavior. In my research on ethno-nationalist conflict, I address questions such as: why do ethno-nationalist and especially separatist conflicts emerge? What determines the reactions of states to ethnic claims for increased self-determination? Under what conditions do nonviolent separatist conflicts escalate to violence? And, under what conditions can ethno-nationalist conflicts be resolved peacefully?&lt;/p&gt;
 
-&lt;p&gt;My work has appeared in the &lt;a href=&#34;https://doi.org/10.1017/S0007123415000563&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;British Journal of Political Science&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://doi.org/10.1080/10584609.2018.1526237&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Political Communication&lt;/em&gt;&lt;/a&gt;, the &lt;a href=&#34;https://doi.org/10.1177/0022002717735364&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Journal of Conflict Resolution&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://doi.org/10.1016/j.electstud.2017.03.001&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Electoral Studies&lt;/em&gt;&lt;/a&gt;, and other outlets.&lt;/p&gt;
+&lt;p&gt;In terms of the latter, I am especially interested in the contribution that democratic decision-making mechanisms, such as referendums, can make to the peaceful resolution of separatist conflicts. In ongoing work, I am extending the focus beyond separatist conflicts and study the potential of one of the most prominent proposals for democratic innovation – deliberative mini-publics – to reduce conflict by increasing the acceptance of negative political decisions.&lt;/p&gt;
+
+&lt;p&gt;I also have a strong interest in the implications of the digital revolution for political behavior and democratic quality more generally. In particular, I am interested in internet voting as well as voter information systems commonly referred to as Voting Advice Applications (VAAs). One key question that I address in my research is whether digital innovations like internet voting and VAAs can increase electoral turnout. I have also investigated the potential of internet voting to prevent voters from making easy mistakes that lead to their votes not being counted. Finally, I am involved in a consortium of researchers producing state-of-the-art VAAs for elections in the &lt;a href=&#34;http://www.whogetsmyvoteuk.com/#!/&#34; target=&#34;_blank&#34;&gt;UK&lt;/a&gt; and elsewhere. Our tools have been accessed by hundreds of thousands of voters across Europe.&lt;/p&gt;
+
+&lt;p&gt;My work has been published in academic journals such as &lt;a href=&#34;https://michagermann.github.io/publication/germannsambanis2020/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;International Organization&lt;/em&gt;&lt;/a&gt;, the &lt;a href=&#34;https://michagermann.github.io/publication/mendezgermann2018/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;British Journal of Political Science&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://michagermann.github.io/publication/germann2020/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Political Behavior&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://michagermann.github.io/publication/germanngemenis2019/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Political Communication&lt;/em&gt;&lt;/a&gt;, the &lt;a href=&#34;https://michagermann.github.io/publication/sambanisgermannschaedel2018/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Journal of Conflict Resolution&lt;/em&gt;&lt;/a&gt;, and &lt;a href=&#34;https://michagermann.github.io/publication/germannserduelt2017/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Electoral Studies&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You can find more information on the projects I am currently working on &lt;a href=&#34;https://michagermann.github.io/#workinprogress&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As part of my research, I have collected new data on self-determination movements (with Nicholas Sambanis and Andreas Schädel), sovereignty referendums (with Fernando Mendez and Nicolas Aubert), and on autonomy losses by ethnic groups (with Nicholas Sambanis). You can download these datasets &lt;a href=&#34;https://michagermann.github.io/#data&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fernando Mendez</title>
       <link>https://michagermann.github.io/authors/fernando-mendez/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/authors/fernando-mendez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Sambanis</title>
+      <link>https://michagermann.github.io/authors/nicholas-sambanis/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/authors/nicholas-sambanis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lala H. Muradova</title>
+      <link>https://michagermann.github.io/authors/lala-h.-muradova/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/authors/lala-h.-muradova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sofie Marien</title>
+      <link>https://michagermann.github.io/authors/sofie-marien/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/authors/sofie-marien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iulia Cioroianu</title>
+      <link>https://michagermann.github.io/authors/iulia-cioroianu/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/authors/iulia-cioroianu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonathan Wheatley</title>
+      <link>https://michagermann.github.io/authors/jonathan-wheatley/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/authors/jonathan-wheatley/</guid>
       <description></description>
     </item>
     
@@ -38,30 +86,6 @@
       <link>https://michagermann.github.io/authors/kostas-gemenis/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/authors/kostas-gemenis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicholas Sambanis</title>
-      <link>https://michagermann.github.io/authors/nicholas-sambanis/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/authors/nicholas-sambanis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lala H. Muradova</title>
-      <link>https://michagermann.github.io/authors/lala-h.-muradova/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/authors/lala-h.-muradova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sofie Marien</title>
-      <link>https://michagermann.github.io/authors/sofie-marien/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/authors/sofie-marien/</guid>
       <description></description>
     </item>
     
@@ -150,14 +174,6 @@
       <link>https://michagermann.github.io/authors/christoph-wellig/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/authors/christoph-wellig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Wheatley</title>
-      <link>https://michagermann.github.io/authors/jonathan-wheatley/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/authors/jonathan-wheatley/</guid>
       <description></description>
     </item>
     

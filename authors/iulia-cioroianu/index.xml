@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iulia Cioroianu | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/iulia-cioroianu/</link>
+      <atom:link href="https://michagermann.github.io/authors/iulia-cioroianu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iulia Cioroianu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://michagermann.github.io/img/icon-192.png</url>
+      <title>Iulia Cioroianu</title>
+      <link>https://michagermann.github.io/authors/iulia-cioroianu/</link>
+    </image>
+    
+    <item>
+      <title>Why Voting Advice Applications Help Get out the Vote</title>
+      <link>https://michagermann.github.io/outreach/inews2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/inews2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

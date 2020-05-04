@@ -5,12 +5,20 @@
     <link>https://michagermann.github.io/authors/jonathan-wheatley/</link>
       <atom:link href="https://michagermann.github.io/authors/jonathan-wheatley/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Wheatley</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Jonathan Wheatley</title>
       <link>https://michagermann.github.io/authors/jonathan-wheatley/</link>
     </image>
+    
+    <item>
+      <title>Why Voting Advice Applications Help Get out the Vote</title>
+      <link>https://michagermann.github.io/outreach/inews2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/inews2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spatial Maps in Voting Advice Applications: The Case for Dynamic Scale Validation</title>

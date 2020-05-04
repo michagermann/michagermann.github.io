@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/</link>
       <atom:link href="https://michagermann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Micha Germann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 00:00:20 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Micha Germann</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Publications</title>
       <link>https://michagermann.github.io/publication/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Apr 2020 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/</guid>
       <description></description>
     </item>
@@ -23,16 +23,16 @@
     <item>
       <title>Outreaches</title>
       <link>https://michagermann.github.io/outreach/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/outreach/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Datasets</title>
-      <link>https://michagermann.github.io/datasets/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/datasets/</guid>
+      <title>Data</title>
+      <link>https://michagermann.github.io/data/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/data/</guid>
       <description></description>
     </item>
     

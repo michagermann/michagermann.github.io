@@ -5,12 +5,36 @@
     <link>https://michagermann.github.io/outreach/</link>
       <atom:link href="https://michagermann.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>Outreaches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Outreaches</title>
       <link>https://michagermann.github.io/outreach/</link>
     </image>
+    
+    <item>
+      <title>How Internet Voting Could Help to Make More Votes Count</title>
+      <link>https://michagermann.github.io/outreach/democraticaudit2020/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/democraticaudit2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Votes Count with Internet Voting</title>
+      <link>https://michagermann.github.io/outreach/pobe2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/pobe2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Voting Advice Applications Help Get out the Vote</title>
+      <link>https://michagermann.github.io/outreach/inews2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/inews2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trends Shaping Education 2019</title>

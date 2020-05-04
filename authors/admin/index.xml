@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/authors/admin/</link>
       <atom:link href="https://michagermann.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Micha Germann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 00:00:20 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Micha Germann</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
-      <title>Pax Populi? On the Conflict Resolution Potential of Self-Determination Referendums</title>
-      <link>https://michagermann.github.io/publication/germann2019b/</link>
-      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germann2019b/</guid>
+      <title>Pax Populi? A Re-Assessment of the Conflict Resolution Potential of Referendums on Self-Determination</title>
+      <link>https://michagermann.github.io/publication/germann2020b/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:20 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germann2020b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Islamist Terrorism and Public Opinion: Evidence from the 2017 and 2019 London Bridge Attacks</title>
+      <link>https://michagermann.github.io/publication/germannmendez2020/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannmendez2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Internet Voting Increase Turnout among Expatriate Voters?</title>
+      <link>https://michagermann.github.io/publication/germann2020c/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:20 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germann2020c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination</title>
+      <link>https://michagermann.github.io/publication/germannsambanis2020/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannsambanis2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Internet Voting Could Help to Make More Votes Count</title>
+      <link>https://michagermann.github.io/outreach/democraticaudit2020/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/democraticaudit2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Votes Count with Internet Voting</title>
+      <link>https://michagermann.github.io/outreach/pobe2020/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/pobe2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Votes Count with Internet Voting</title>
+      <link>https://michagermann.github.io/publication/germann2020/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germann2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Deliberative Mini-Publics Increase Losers&#39; Consent?</title>
+      <link>https://michagermann.github.io/publication/germannmarienmuradova2019/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannmarienmuradova2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why Voting Advice Applications Help Get out the Vote</title>
+      <link>https://michagermann.github.io/outreach/inews2019/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/inews2019/</guid>
       <description></description>
     </item>
     
@@ -29,27 +93,43 @@
     </item>
     
     <item>
-      <title>Making Votes Count with Internet Voting</title>
-      <link>https://michagermann.github.io/publication/germann2019a/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germann2019a/</guid>
-      <description></description>
+      <title>Lost Autonomy</title>
+      <link>https://michagermann.github.io/data/lostautonomy/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/data/lostautonomy/</guid>
+      <description>
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;Influential contributions posit that centralization and the imposition of direct rule constitute key causes of the emergence of separatist nationalism and the escalation of separatist claims to violence. However, the empirical study of the role of autonomy loss in conflict processes has been limited by the fact that the main extant source of data on lost autonomy – the Minorities at Risk (MAR) dataset – covers only a small and biased sample of all ethnic groups around the world (Hug 2013).&lt;/p&gt;
+
+&lt;p&gt;We provide new and improved data on autonomy loss for more than 750 ethnic groups from the Ethnic Power Relations (EPR) dataset, version 2014. Our data identify all major autonomy downgrades during the period from 1800 to 2012. The data can be used for the identification of ethnic groups that have suffered from autonomy loss since 1800 or any other cut-off after 1800.&lt;/p&gt;
+
+&lt;p&gt;The data and documentation can be downloaded &lt;a href=&#34;https://michagermann.github.io/files/LostAutonomy.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When referring to this data set, please always cite:&lt;/p&gt;
+
+&lt;p&gt;Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.&amp;rdquo; &lt;em&gt;International Organization&lt;/em&gt;, in print. &lt;a href=&#34;https://michagermann.github.io/publication/germannsambanis2020/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination</title>
-      <link>https://michagermann.github.io/publication/germannsambanis2019/</link>
-      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germannsambanis2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Can Deliberative Mini-Publics Increase Losers&#39; Consent?</title>
-      <link>https://michagermann.github.io/publication/germannmarienmuradova2019/</link>
-      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germannmarienmuradova2019/</guid>
-      <description></description>
+      <title>SDM2EPR</title>
+      <link>https://michagermann.github.io/data/sdm2epr/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/data/sdm2epr/</guid>
+      <description>
+
+&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
+
+&lt;p&gt;The SDM2EPR docking data links separatist groups as coded by the self-determination movements (SDM) dataset with politically relevant groups as coded by the Ethnic Power Relations (EPR) dataset, version 2014. The data can be used for the analysis of violent or nonviolent separatist conflicts in the context of the EPR dataset.&lt;/p&gt;
+
+&lt;p&gt;The data and documentation can be downloaded &lt;a href=&#34;https://michagermann.github.io/files/SDM2EPR.zip&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When referring to this data set, please always cite:&lt;/p&gt;
+
+&lt;p&gt;Germann, Micha, and Nicholas Sambanis (forthcoming). ``Political Exclusion, Lost Autonomy, and Escalating Conflict over Self-Determination.&amp;rdquo; &lt;em&gt;International Organization&lt;/em&gt;, in print. &lt;a href=&#34;https://michagermann.github.io/publication/germannsambanis2020/&#34; target=&#34;_blank&#34;&gt;[1]&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -86,9 +166,9 @@
     
     <item>
       <title>SDM</title>
-      <link>https://michagermann.github.io/datasets/sdm/</link>
+      <link>https://michagermann.github.io/data/sdm/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/datasets/sdm/</guid>
+      <guid>https://michagermann.github.io/data/sdm/</guid>
       <description>
 
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;
@@ -141,9 +221,9 @@
     
     <item>
       <title>Contested Sovereignty</title>
-      <link>https://michagermann.github.io/datasets/contested-sovereignty/</link>
+      <link>https://michagermann.github.io/data/contested-sovereignty/</link>
       <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/datasets/contested-sovereignty/</guid>
+      <guid>https://michagermann.github.io/data/contested-sovereignty/</guid>
       <description>
 
 &lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;

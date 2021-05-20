@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/categories/</link>
       <atom:link href="https://michagermann.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 00:00:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 00:00:20 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Unpublished</title>
       <link>https://michagermann.github.io/categories/unpublished/</link>
-      <pubDate>Thu, 23 Apr 2020 00:00:20 +0000</pubDate>
+      <pubDate>Wed, 19 May 2021 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/categories/unpublished/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Published</title>
       <link>https://michagermann.github.io/categories/published/</link>
-      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/categories/published/</guid>
       <description></description>
     </item>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kostas Gemenis | Micha Germann</title>
-    <link>https://michagermann.github.io/authors/kostas-gemenis/</link>
-      <atom:link href="https://michagermann.github.io/authors/kostas-gemenis/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kostas Gemenis</description>
+    <title>Ferando Mendez | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/ferando-mendez/</link>
+      <atom:link href="https://michagermann.github.io/authors/ferando-mendez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ferando Mendez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:20 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
-      <title>Kostas Gemenis</title>
-      <link>https://michagermann.github.io/authors/kostas-gemenis/</link>
+      <title>Ferando Mendez</title>
+      <link>https://michagermann.github.io/authors/ferando-mendez/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://michagermann.github.io/publication/gemenisgermannmendez2021/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/gemenisgermannmendez2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting out the Vote with Voting Advice Applications</title>
-      <link>https://michagermann.github.io/publication/germanngemenis2019/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germanngemenis2019/</guid>
       <description></description>
     </item>
     

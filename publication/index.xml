@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/publication/</link>
       <atom:link href="https://michagermann.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 00:00:20 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
+      <title>Islamist Terrorism Continues to Affect Political Attitudes.</title>
+      <link>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pax Populi? An Analysis of the Conflict Resolution Potential of Referendums on Self-Determination</title>
       <link>https://michagermann.github.io/publication/germann2021b/</link>
-      <pubDate>Wed, 19 May 2021 00:00:20 +0000</pubDate>
+      <pubDate>Wed, 02 Feb 2022 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/germann2021b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Does Personalized Information on Issue Congruence Affect Voting Preferences? Evidence from Field Experiments in Five Countries</title>
+      <title>Does Personalized Information on Issue Congruence Affect Voting Preferences? Field-Experimental Evidence from Five European Countries</title>
       <link>https://michagermann.github.io/publication/gemenisgermannmendez2021/</link>
-      <pubDate>Tue, 18 May 2021 00:00:20 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:20 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/gemenisgermannmendez2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Votes Count with Internet Voting</title>
+      <link>https://michagermann.github.io/publication/germann2020/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germann2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Up? Unpacking the Effect of Deliberative Mini-Publics on Legitimacy Perceptions</title>
+      <link>https://michagermann.github.io/publication/germannmarienmuradova2019/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannmarienmuradova2019/</guid>
       <description></description>
     </item>
     
@@ -41,38 +65,6 @@
       <link>https://michagermann.github.io/publication/germannsambanis2021/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/germannsambanis2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deliberative Mini-Publics, Procedural Fairness, and the Acceptance of Negative Political Decisions</title>
-      <link>https://michagermann.github.io/publication/germannmarienmuradova2019/</link>
-      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germannmarienmuradova2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jihadist Terrorism and Public Opinion: Natural Experimental Evidence from Mass Online Surveys</title>
-      <link>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</link>
-      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Making Votes Count with Internet Voting</title>
-      <link>https://michagermann.github.io/publication/germann2020/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germann2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting Spatial Voting Models with Big Data</title>
-      <link>https://michagermann.github.io/publication/germanngemenismendez2019/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germanngemenismendez2019/</guid>
       <description></description>
     </item>
     

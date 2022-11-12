@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/categories/unpublished/</link>
       <atom:link href="https://michagermann.github.io/categories/unpublished/index.xml" rel="self" type="application/rss+xml" />
     <description>Unpublished</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 12 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Unpublished</title>
@@ -13,26 +13,18 @@
     </image>
     
     <item>
-      <title>Islamist Terrorism Continues to Affect Political Attitudes.</title>
+      <title>Does Personalized Information on Issue Congruence Affect Voting Preferences? Evidence from Field Experiments in Five European Countries</title>
+      <link>https://michagermann.github.io/publication/vaaexperiments/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/vaaexperiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Islamist Terrorism Still Affect Political Attitudes.</title>
       <link>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pax Populi? An Analysis of the Conflict Resolution Potential of Referendums on Self-Determination</title>
-      <link>https://michagermann.github.io/publication/germann2021b/</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:20 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germann2021b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scaling Up? Unpacking the Effect of Deliberative Mini-Publics on Legitimacy Perceptions</title>
-      <link>https://michagermann.github.io/publication/germannmarienmuradova2019/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/publication/germannmarienmuradova2019/</guid>
       <description></description>
     </item>
     

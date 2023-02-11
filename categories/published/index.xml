@@ -5,12 +5,20 @@
     <link>https://michagermann.github.io/categories/published/</link>
       <atom:link href="https://michagermann.github.io/categories/published/index.xml" rel="self" type="application/rss+xml" />
     <description>Published</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Published</title>
       <link>https://michagermann.github.io/categories/published/</link>
     </image>
+    
+    <item>
+      <title>Do Voting Advice Applications Affect Party Preferences? Evidence from Field Experiments in Five European Countries</title>
+      <link>https://michagermann.github.io/publication/vaaexperiments/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/vaaexperiments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scaling Up? Unpacking the Effect of Deliberative Mini-Publics on Legitimacy Perceptions</title>

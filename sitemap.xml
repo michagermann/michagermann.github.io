@@ -1,34 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://michagermann.github.io/authors/admin/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michagermann.github.io/publication_types/2/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://michagermann.github.io/publication_types/3/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michagermann.github.io/authors/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michagermann.github.io/categories/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michagermann.github.io/publication/vaaexperiments/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>https://michagermann.github.io/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication_types/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germann_ethnicrightsrestrictions/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/categories/unpublished/</loc>
+    <lastmod>2025-12-23T00:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/amelie-godefroidt/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/data/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://michagermann.github.io/authors/fernando-mendez/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/data/sdm2/</loc>
+    <lastmod>2025-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/constantinos-djouvas/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germannetal_vaaeffects/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/iulia-cioroianu/</loc>
+    <lastmod>2025-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication_types/2/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germannetalcandidatevaas/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/jonathan-wheatley/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/matthew-wall/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/categories/published/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/roula-nezi/</loc>
+    <lastmod>2025-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germanndmplegitimacy/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/wheatleygermannwales/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/lala-muradova/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/germannmarienmuradova2019/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/authors/sofie-marien/</loc>
+    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/outreach/insideit2023/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/outreach/</loc>
+    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/outreach/chstiftung2023/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michagermann.github.io/publication/vaaexperiments/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,63 +168,8 @@
   </url>
   
   <url>
-    <loc>https://michagermann.github.io/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/publication_types/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/publication/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/categories/published/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/authors/lala-muradova/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/publication/germannmarienmuradova2019/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/authors/sofie-marien/</loc>
-    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michagermann.github.io/publication/germann2021b/</loc>
     <lastmod>2022-05-16T00:00:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/publication_types/3/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/authors/amelie-godefroidt/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/publication/germanngodefroidtmendez2021/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/categories/unpublished/</loc>
-    <lastmod>2022-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,33 +198,13 @@
   </url>
   
   <url>
-    <loc>https://michagermann.github.io/outreach/</loc>
-    <lastmod>2020-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michagermann.github.io/outreach/pobe2020/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michagermann.github.io/authors/iulia-cioroianu/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/authors/jonathan-wheatley/</loc>
-    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michagermann.github.io/outreach/inews2019/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michagermann.github.io/data/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

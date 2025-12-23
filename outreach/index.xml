@@ -5,12 +5,28 @@
     <link>https://michagermann.github.io/outreach/</link>
       <atom:link href="https://michagermann.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>Outreaches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Outreaches</title>
       <link>https://michagermann.github.io/outreach/</link>
     </image>
+    
+    <item>
+      <title>E-Voting ist zurück — ist das eine gute Nachricht?</title>
+      <link>https://michagermann.github.io/outreach/insideit2023/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/insideit2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erhöht e-voting die Stimmbeteiligung?</title>
+      <link>https://michagermann.github.io/outreach/chstiftung2023/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/chstiftung2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Internet Voting Could Help to Make More Votes Count</title>

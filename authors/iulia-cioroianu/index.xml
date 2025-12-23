@@ -5,12 +5,14 @@
     <link>https://michagermann.github.io/authors/iulia-cioroianu/</link>
       <atom:link href="https://michagermann.github.io/authors/iulia-cioroianu/index.xml" rel="self" type="application/rss+xml" />
     <description>Iulia Cioroianu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://michagermann.github.io/img/icon-192.png</url>
-      <title>Iulia Cioroianu</title>
-      <link>https://michagermann.github.io/authors/iulia-cioroianu/</link>
-    </image>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Do Voting Advice Applications Have Lasting Causal Effects? Evidence from Concurrent Survey and Field Experiments</title>
+      <link>https://michagermann.github.io/publication/germannetal_vaaeffects/</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannetal_vaaeffects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Why Voting Advice Applications Help Get out the Vote</title>

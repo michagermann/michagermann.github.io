@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roula Nezi | Micha Germann</title>
+    <link>https://michagermann.github.io/authors/roula-nezi/</link>
+      <atom:link href="https://michagermann.github.io/authors/roula-nezi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roula Nezi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Improving Issue Representation with Candidate-Level Voting Advice Applications</title>
+      <link>https://michagermann.github.io/publication/germannetalcandidatevaas/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/publication/germannetalcandidatevaas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

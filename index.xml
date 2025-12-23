@@ -5,7 +5,7 @@
     <link>https://michagermann.github.io/</link>
       <atom:link href="https://michagermann.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Micha Germann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Dec 2025 00:00:01 +0000</lastBuildDate>
     <image>
       <url>https://michagermann.github.io/img/icon-192.png</url>
       <title>Micha Germann</title>
@@ -15,32 +15,24 @@
     <item>
       <title>Publications</title>
       <link>https://michagermann.github.io/publication/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Dec 2025 00:00:01 +0000</pubDate>
       <guid>https://michagermann.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outreaches</title>
-      <link>https://michagermann.github.io/outreach/</link>
-      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://michagermann.github.io/outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
       <link>https://michagermann.github.io/data/</link>
-      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://michagermann.github.io/data/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Outreaches</title>
+      <link>https://michagermann.github.io/outreach/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://michagermann.github.io/outreach/</guid>
       <description></description>
     </item>
     
